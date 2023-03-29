@@ -1,5 +1,5 @@
 # Homebrew_Updater
-I wanted an application to keep all my mac apps updated. I didn’t want to pay $15, and I already used homebrew for most of my apps.  So I wasted a few hours on this.
+I wanted an application to keep all my mac apps updated. I didn’t want to pay $15, and I already used homebrew for most of my apps.  So I wasted a few hours on this. Way more than $15 worth of time. but hey, here it is. 
 
 The script will check to see which applications have been installed on your machine using homebrew
 
